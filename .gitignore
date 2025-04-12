@@ -1,4 +1,6 @@
 # Local gitignore
+fut_ex.geojson
+no_fut.geojson
 dagestan.jpg
 dagestan.png
 dagestan.ico
